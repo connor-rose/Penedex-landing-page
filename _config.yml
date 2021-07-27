@@ -48,28 +48,31 @@ features                                  :
     fontawesome_icon_name                 : chart-bar
 
   - title                                 : Filter your current carry
-    description                           : Easily keep track of what pens are ready to use or need to be cleaned.
-    fontawesome_icon_name                 : filter
-  
+    description                           : Easily keep track of what pens are ready to use or need to be cleaned. 
+    fontawesome_icon_name                 : chart-bar
+    
+    
   - title                                 : Icons
-    description                           : Customize Penedex with custom icons for a look that works for you.
+    description                           : Customize Penedex with custom icons for a look that works for you. 
     fontawesome_icon_name                 : mobile-alt
+    
+    
+  - title                                 : Themes Coming Soon
+    description                           : Find a custom theme that fits your personality.
+    fontawesome_icon_name                 : adjust
+    
+    
+  - title                                 : Wishlist Coming Soon
+    description                           : Soon you will be able to add a pen or ink to a wishlist to save it for later. 
+    fontawesome_icon_name                 : star
 
-#  - title                                 : Themes Coming Soon
-#    description                           : Find a custom theme that fits your personality. 
-#    fontawesome_icon_name                 : adjust
+  - title                                 : Widgets Coming Soon
+    description                           : You will soon be able to keep track of our libraries from the homescreen of your iOS device.
+    fontawesome_icon_name                 : buffer
 
- - title                                 : Wishlist Coming Soon
-   description                           : Soon you willbe able to add a pen or ink to a wishlist to save it for later.
-   fontawesome_icon_name                 : star
-
- - title                                 : Widgets Coming Soon
-   description                           : You will soon be able to keep track of your libraries from the homescreen of your iOS device. 
-   fontawesome_icon_name                 : buffer
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+ # - title                                 : # New Feature Title
+  #  description                           : # New Feature Description
+  #  fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
