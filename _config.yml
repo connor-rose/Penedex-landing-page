@@ -1,5 +1,5 @@
 #page title
-page_title                                : Penedex                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                :                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1535416271                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -55,9 +55,9 @@ features                                  :
     description                           : Customize Penedex with custom icons for a look that works for you.
     fontawesome_icon_name                 : mobile-alt
 
- - title                                 : Themes Coming Soon
-   description                           : Find a custom theme that fits your personality. 
-   fontawesome_icon_name                 : adjust
+#  - title                                 : Themes Coming Soon
+#    description                           : Find a custom theme that fits your personality. 
+#    fontawesome_icon_name                 : adjust
 
  - title                                 : Wishlist Coming Soon
    description                           : Soon you willbe able to add a pen or ink to a wishlist to save it for later.
