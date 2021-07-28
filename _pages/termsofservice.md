@@ -1,4 +1,13 @@
-##Penedex
+---
+layout: page
+title: Terms of Service
+include_in_header: true
+---
+
+**Last updated**  
+July 27 2021
+
+#Penedex
 
 Penedex (the “App”) is made available to you by Connor Rose, (“me”, “I”, “my”) and subject to these Terms of Service, including those set forth in the Privacy Policy (the “Terms”). By accessing, using or downloading any materials from the App, you agree to follow and be bound by the Terms, which may be updated by me from time to time without notice to you. You can review the most current version of the Terms at any time here. Third party providers and I may make improvements and/or changes in the products, services, mobile applications, features, programs, and prices described in this App at any time without notice. Certain provisions of the Terms may be supplemented or superseded by expressly designated legal notices or terms located on particular pages at this App. The App is not intended for and is not designed to attract children under 13 years of age. If you do not agree with the Terms, please do not use this App. BY CONTINUING TO USE THE APP, YOU ARE INDICATING YOUR AGREEMENT TO THE TERMS AND ALL REVISIONS THEREOF.
 
