@@ -10,7 +10,7 @@ July 27 2021
 <br>
 ## Information I Collect
 
-I store information about your pens, inks, and EDC pairings to sync this information between your devices. I also collect anonymous statistics to help improve Penedex.
+I use iCloud and CloudKit to store your information about your pens, inks, and EDC pairings to sync this information between your devices. This data is stored using your personal iCloud account and is not accessible by myself or any third parties.
 
 ## Technical Basis
 
