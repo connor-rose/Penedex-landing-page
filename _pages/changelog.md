@@ -49,16 +49,16 @@ Penedex is an app built to easily keep track of your pen and ink collections. It
 
 The free version of Penedex allows for unlimited pen and EDC entries but limits you to 10 ink entries. Unlimited ink entries, along with other great features, can be unlocked with a Pro subscription in the Settings page. 
 
-EDC
+#### EDC
 The EDC tab is where you can easily catalog a pen and ink combination. All of your combinations are organized by date and when it’s time to mark a pen as “ready for cleaning”, you can quickly do so with a long-press on that item. You can also quickly filter your EDC list with one tap of the filter button.  
 
-LIBRARY
+#### LIBRARY
 The pen and ink libraries allow you to quickly add, edit, and view key details about your collections and find the right pen or ink at a glance. It even keeps track of how many times you’ve inked up a particular pen or ink. For pens you can store information like the nib size, material, and purchase date. For your ink collection, you can catalog information such as dry time, level of sheen, saturation, and shading. You can even use the color picker to save the exact color of your ink from a picture or screenshot!
 
-STATS & HISTORY
+#### STATS & HISTORY
 The Stats tab allows you to view basic metrics about your collection. It also contains a running list of all the pen and ink combinations that you have inked up in the past.
 
-PRO FEATURES 
+#### PRO FEATURES 
 With a subscription purchase you can unlock the following pro features.
 - Unlimited ink library entries
 - Fun alternate icons
