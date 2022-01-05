@@ -21,10 +21,10 @@ Your app island for misfit pens has some cool new features along with awesome re
 - Added a Brand List to Settings so that you can edit your list of brands without going into the add pen/ink view.
 - Need a quicker way to judge your pens and inks? You can now rate the items in your collection with a star rating and use that rating to sort your library! This way you can always tell which pens and inks are your favorite!
 
-#### What's New for Subscriber's
+#### What's New for Subscribers
 - Added a wishlist to help you keep track of future acquisitions. By default, the wishlist is sorted in descending order by the date an item was added. 
 - Added new icons! I have two festive icons just in time for the holidays. I have several other icons as well, let me know on twitter if you can figure out what the icons are referencing! 
-- 
+
 #### Bug Fixes
 - Fixed the sorting method for ink library, by deafult it now correctly sorts alphabetically by brand, and then by ink name.
 - Users can no longer save a brand with no characters. 
