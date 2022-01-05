@@ -54,17 +54,15 @@ features                                  :
     
   - title                                 : Icons
     description                           : Customize Penedex with custom icons for a look that works for you. 
-    fontawesome_icon_name                 : mobile-alt
+    fontawesome_icon_name                 : mobile-alt 
     
+  - title                                 : Wishlist
+    description                           : Add a pen or ink to your wishlist to save it for later so you can keep track of your grail pens.
+    fontawesome_icon_name                 : star
     
   - title                                 : Themes Coming Soon
     description                           : Find a custom theme that fits your personality.
     fontawesome_icon_name                 : adjust
-    
-    
-  - title                                 : Wishlist Coming Soon
-    description                           : Soon you will be able to add a pen or ink to a wishlist to save it for later. 
-    fontawesome_icon_name                 : star
 
   - title                                 : Widgets Coming Soon
     description                           : You will soon be able to keep track of our libraries from the homescreen of your iOS device.
