@@ -9,31 +9,42 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
  -->
 <br>
 
-<!-- ### `Latest` -->
-<!-- # **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+### `Latest`
+# **Version 2021.04**
+Happy Holidays and Merry Festivities! I have a big update for Penedex just in time to help you catalog all your new pens and inks that are currently under the tree, or festivus pole, or whever you store your gifts in the winter! 
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+Your app island for misfit pens has some cool new features along with awesome refinements for both free and paid users. Keep reading if you want to get all the details, or just tap “Update” if you like surprises!
 
+#### What's New for Everyone
+- Added a counter in the Ink’d page to show the total number of days since a pen was inked up. You can turn this on/off in the settings. 
+- Added Sort buttons in the Library and Wishlist (yes, a wishlist) to allow for more flexibility in how your library is displayed. More sorting options will be coming in future updates. 
+- Added a Brand List to Settings so that you can edit your list of brands without going into the add pen/ink view.
+- Need a quicker way to judge your pens and inks? You can now rate the items in your collection with a star rating and use that rating to sort your library! This way you can always tell which pens and inks are your favorite!
+
+#### What's New for Subscriber's
+- Added a wishlist to help you keep track of future acquisitions. By default, the wishlist is sorted in descending order by the date an item was added. 
+- Added new icons! I have two festive icons just in time for the holidays. I have several other icons as well, let me know on twitter if you can figure out what the icons are referencing! 
+- 
 #### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- Fixed the sorting method for ink library, by deafult it now correctly sorts alphabetically by brand, and then by ink name.
+- Users can no longer save a brand with no characters. 
+- iPad now opens to the Pen list by default, instead of a blank page. 
+- Pen Detail boxes are now a consistent size when empty.
+- Fixed text wrapping for long names of pens and inks in the library view.
 
 <br>
 
-### **Version 2.1**
+<!-- ### **Version 2.1**
 Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
 
 #### What's New
 - Much far proper exotically precise unaccountable.
 - Much far proper exotically precise unaccountable.
 
-<br>
+<br> -->
 
 ________
-<br> -->
+<br>
 
 ### `Initial Release`
 # **Version 2021.01**
