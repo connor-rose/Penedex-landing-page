@@ -44,7 +44,6 @@ Abnormal and formidable against much the before well improper more spent far her
 <br> -->
 
 ________
-<br>
 
 ### `Initial Release`
 # **Version 2021.01**
