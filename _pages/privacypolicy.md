@@ -5,8 +5,10 @@ include_in_header: true
 ---
 
 **Last updated**  
-July 27 2021
+01 March 2022
 # Privacy Policy
+For the Modey Bean Sticker Pack Privacy Policy, see below. 
+
 <br>
 ## Information I Collect
 
@@ -57,6 +59,9 @@ Information may be processed, stored, and used outside of the country in which y
 ## Your Consent
 
 By using Penedex, you consent to my privacy policy.
+
+## Modey Bean Sticker Pack
+This sticker pack does not collect any user information. The above policies that apply to the app Penedex also apply to the sticker pack Modey Bean.
 
 ## Contacting Me
 
