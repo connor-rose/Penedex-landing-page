@@ -60,8 +60,8 @@ features                                  :
     description                           : Add a pen or ink to your wishlist to save it for later so you can keep track of your grail pens.
     fontawesome_icon_name                 : star
     
-  - title                                 : Themes Coming Soon
-    description                           : Find a custom theme that fits your personality.
+  - title                                 : Themes
+    description                           : Find a custom color theme that fits your personality.
     fontawesome_icon_name                 : adjust
 
   - title                                 : Widgets Coming Soon
