@@ -64,9 +64,13 @@ features                                  :
     description                           : Find a custom color theme that fits your personality.
     fontawesome_icon_name                 : adjust
 
-  - title                                 : Widgets Coming Soon
-    description                           : You will soon be able to keep track of our libraries from the homescreen of your iOS device.
+  - title                                 : Widgets
+    description                           : Display details of your collection on your homescreen with iOS widgets.
     fontawesome_icon_name                 : mobile
+
+  - title                                 : Photos
+    description                           : Attach photos to your pen and ink collection entries.
+    fontawesome_icon_name                 : image
 
  # - title                                 : # New Feature Title
   #  description                           : # New Feature Description
