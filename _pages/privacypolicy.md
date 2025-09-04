@@ -7,7 +7,7 @@ include_in_header: true
 **Last updated**  
 01 March 2022
 # Privacy Policy
-For the Modey Bean Sticker Pack Privacy Policy, see below. 
+For the Penedex iOS app Privacy Policy, see below. 
 
 <br>
 ## Information I Collect
